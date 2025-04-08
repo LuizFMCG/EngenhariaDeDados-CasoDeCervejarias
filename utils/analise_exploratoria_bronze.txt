@@ -1,0 +1,95 @@
+Colunas disponíveis:
+id, name, brewery_type, address_1, address_2, address_3, city, state_province, postal_code, country, longitude, latitude, phone, website_url, state, street
+
+Valores nulos por coluna:
+id                   0
+name                 0
+brewery_type         0
+address_1          757
+address_2         8259
+address_3         8334
+city                 0
+state_province       0
+postal_code          0
+country              0
+longitude         2321
+latitude          2321
+phone              847
+website_url       1189
+state                0
+street             757
+dtype: int64
+
+Distribuição de valores únicos em 'country':
+country
+United States     8035
+Ireland             70
+England             62
+South Korea         61
+Poland              34
+Singapore           33
+Portugal            14
+Austria             14
+Japan               10
+Sweden              10
+Germany             10
+Scotland            10
+France               3
+Isle of Man          2
+ United States       1
+Name: count, dtype: int64
+
+Distribuição de valores únicos em 'state':
+state
+California          917
+Washington          486
+Colorado            448
+New York            419
+Michigan            375
+                   ... 
+Daejeon               1
+Deagu                 1
+Chungcheongbukdo      1
+Gwangju               1
+Jeollanamdo           1
+Name: count, Length: 117, dtype: int64
+
+Distribuição de valores únicos em 'city':
+city
+Portland        105
+Denver           92
+San Diego        91
+Seattle          80
+Chicago          64
+               ... 
+Changwon-si       1
+Tongyeong-si      1
+Yongin-si         1
+Jeju-si           1
+Gongju-si         1
+Name: count, Length: 3118, dtype: int64
+
+Verificação de valores nulos em latitude e longitude:
+latitude     2321
+longitude    2321
+dtype: int64
+
+Número de valores únicos por coluna:
+brewery_type        13
+country             15
+address_3           33
+address_2          106
+state              117
+state_province     117
+city              3118
+latitude          5924
+longitude         5925
+website_url       6812
+phone             7320
+address_1         7495
+street            7495
+postal_code       8094
+name              8221
+id                8369
+dtype: int64
+

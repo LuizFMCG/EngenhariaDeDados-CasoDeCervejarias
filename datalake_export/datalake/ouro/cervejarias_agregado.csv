@@ -1,0 +1,408 @@
+country,state_province,brewery_type,quantidade
+United States,California,micro,465
+United States,Washington,micro,268
+United States,California,brewpub,253
+United States,Colorado,micro,228
+United States,New York,micro,226
+United States,Michigan,brewpub,199
+United States,Texas,micro,196
+United States,Florida,micro,190
+United States,North Carolina,micro,180
+United States,Ohio,micro,163
+United States,Pennsylvania,brewpub,158
+United States,Virginia,micro,152
+United States,Michigan,micro,143
+United States,Oregon,micro,142
+United States,Colorado,brewpub,141
+United States,Pennsylvania,micro,129
+United States,Illinois,micro,123
+United States,Washington,brewpub,113
+United States,New York,brewpub,111
+United States,Minnesota,micro,111
+United States,Oregon,brewpub,106
+United States,Wisconsin,micro,99
+United States,Ohio,brewpub,94
+United States,Massachusetts,micro,93
+United States,Illinois,brewpub,88
+United States,New Jersey,micro,79
+United States,Texas,brewpub,77
+United States,Wisconsin,brewpub,76
+United States,Indiana,brewpub,76
+United States,Washington,closed,74
+United States,North Carolina,brewpub,73
+United States,Maine,micro,70
+United States,Missouri,micro,66
+United States,Florida,brewpub,65
+United States,California,planning,64
+United States,Montana,micro,61
+United States,Indiana,micro,60
+United States,Tennessee,micro,59
+United States,Arizona,micro,59
+United States,Texas,planning,56
+United States,Iowa,micro,56
+United States,Virginia,brewpub,56
+United States,Maryland,micro,52
+United States,California,closed,51
+United States,Connecticut,micro,48
+United States,Georgia,micro,47
+United States,Missouri,brewpub,46
+United States,Arizona,brewpub,46
+United States,New Hampshire,micro,46
+United States,New Mexico,brewpub,44
+United States,Minnesota,brewpub,44
+United States,Kentucky,micro,41
+United States,Colorado,planning,39
+United States,Florida,planning,38
+United States,South Carolina,micro,38
+United States,New York,planning,37
+United States,Idaho,micro,36
+United States,Pennsylvania,planning,36
+United States,Nebraska,micro,35
+United States,Vermont,micro,34
+United States,Massachusetts,brewpub,34
+United States,Virginia,planning,34
+United States,Alabama,micro,32
+United States,Iowa,brewpub,32
+United States,Maine,brewpub,31
+United States,Oklahoma,micro,30
+United States,New Mexico,micro,30
+United States,Alaska,micro,29
+United States,North Carolina,planning,29
+United States,California,regional,29
+United States,South Carolina,brewpub,29
+Singapore,Singapore,bar,28
+United States,California,contract,27
+United States,Louisiana,micro,27
+United States,Maryland,brewpub,26
+United States,Tennessee,brewpub,26
+United States,Ohio,planning,26
+United States,Georgia,brewpub,25
+United States,Wyoming,micro,24
+United States,South Dakota,micro,24
+United States,Idaho,brewpub,23
+United States,Illinois,planning,23
+United States,Nevada,micro,22
+United States,New York,contract,22
+United States,Arkansas,micro,22
+United States,New Hampshire,brewpub,22
+England,East Sussex,micro,21
+United States,Utah,micro,21
+United States,West Virginia,micro,21
+United States,Michigan,planning,21
+United States,Nebraska,brewpub,21
+United States,Rhode Island,micro,20
+United States,Indiana,planning,20
+United States,Tennessee,planning,20
+Poland,dolnośląskie,micro,20
+United States,Nevada,brewpub,20
+United States,Kansas,brewpub,20
+England,West Sussex,micro,19
+United States,Georgia,planning,19
+United States,Maryland,planning,18
+United States,Arkansas,brewpub,18
+United States,Kansas,micro,18
+United States,Montana,brewpub,17
+United States,Connecticut,planning,17
+United States,Vermont,brewpub,16
+United States,Wyoming,brewpub,16
+United States,New Jersey,brewpub,16
+United States,Massachusetts,planning,16
+United States,California,large,15
+United States,South Dakota,brewpub,15
+United States,Utah,brewpub,15
+United States,Wisconsin,contract,14
+South Korea,Seoul,brewpub,14
+United States,Alaska,brewpub,14
+United States,Delaware,brewpub,14
+United States,New Jersey,planning,14
+United States,Pennsylvania,regional,13
+United States,Missouri,closed,13
+United States,Mississippi,micro,13
+United States,West Virginia,brewpub,13
+United States,Minnesota,planning,13
+United States,Arizona,planning,13
+United States,California,proprietor,13
+United States,North Carolina,regional,13
+United States,Oregon,regional,13
+United States,Connecticut,closed,12
+United States,Hawaii,brewpub,12
+United States,Kentucky,brewpub,12
+United States,North Dakota,micro,12
+United States,Oregon,planning,12
+United States,Massachusetts,regional,12
+United States,Colorado,regional,11
+United States,Illinois,contract,11
+Poland,dolnośląskie,brewpub,11
+United States,Oregon,closed,11
+United States,Montana,planning,10
+United States,Texas,regional,10
+United States,New York,proprietor,10
+United States,Wisconsin,closed,10
+Ireland,Dublin,micro,10
+United States,Connecticut,brewpub,10
+United States,Delaware,micro,10
+United States,Colorado,closed,9
+United States,Michigan,regional,9
+United States,Rhode Island,brewpub,9
+United States,Wisconsin,regional,9
+United States,Wisconsin,planning,9
+United States,Ohio,regional,9
+United States,Colorado,contract,9
+United States,New York,regional,9
+South Korea,Busan,brewpub,8
+United States,South Carolina,planning,8
+United States,North Dakota,brewpub,8
+South Korea,Gyeonggido,brewpub,8
+United States,Alabama,planning,8
+United States,Minnesota,regional,8
+United States,Missouri,regional,8
+United States,Washington,regional,7
+England,West Sussex,taproom,7
+United States,Vermont,regional,7
+United States,Massachusetts,contract,7
+United States,Hawaii,micro,7
+United States,Colorado,large,7
+United States,Maine,planning,7
+South Korea,Gangwondo,brewpub,7
+United States,Ohio,contract,7
+United States,Kansas,planning,7
+United States,New Hampshire,planning,7
+United States,Oregon,large,6
+United States,Wyoming,closed,6
+United States,Florida,contract,6
+United States,Pennsylvania,contract,6
+Japan,Osaka,brewpub,6
+United States,Washington,nano,6
+United States,Maryland,contract,6
+United States,Louisiana,closed,6
+United States,District of Columbia,brewpub,6
+Sweden,Blekinge,micro,6
+United States,Texas,contract,6
+United States,Wyoming,taproom,5
+United States,Wisconsin,large,5
+United States,Virginia,contract,5
+Ireland,Cork,micro,5
+England,West Sussex,brewpub,5
+United States,Nevada,planning,5
+United States,District of Columbia,micro,5
+United States,Illinois,proprietor,5
+United States,Louisiana,brewpub,5
+United States,Minnesota,contract,5
+United States,Florida,regional,5
+United States,New Mexico,planning,5
+United States,Connecticut,contract,5
+United States,Idaho,closed,5
+England,East Sussex,brewpub,5
+Germany,Berlin,bar,5
+United States,Washington,planning,5
+United States,North Carolina,contract,5
+United States,Louisiana,planning,5
+United States,Virginia,large,5
+United States,Oklahoma,brewpub,5
+United States,Nebraska,planning,4
+United States,Maryland,regional,4
+United States,Illinois,large,4
+United States,Arizona,contract,4
+United States,Colorado,proprietor,4
+United States,New Jersey,contract,4
+United States,Arkansas,planning,4
+United States,Florida,proprietor,4
+United States,Florida,large,4
+Singapore,Singapore,brewpub,4
+United States,Alabama,brewpub,4
+Sweden,Halland,micro,4
+United States,New York,large,4
+United States,North Carolina,large,4
+United States,Oklahoma,planning,4
+United States,Oklahoma,contract,4
+United States,Alaska,closed,4
+Scotland,Argyll,micro,4
+England,East Sussex,taproom,4
+Japan,Osaka,micro,4
+Scotland,West Dunbartonshire,micro,4
+Austria,Steiermark,large,4
+United States,Utah,closed,4
+United States,Texas,large,4
+United States,Washington,contract,4
+South Korea,Gyeongsangnamdo,brewpub,3
+United States,Kentucky,planning,3
+United States,Virginia,regional,3
+United States,Washington,large,3
+United States,Washington,taproom,3
+United States,West Virginia,closed,3
+United States,Indiana,regional,3
+Portugal,Lisboa,micro,3
+Ireland,Kildare,micro,3
+United States,North Carolina,proprietor,3
+United States,North Dakota,closed,3
+United States,Maine,regional,3
+United States,Nevada,contract,3
+United States,Michigan,contract,3
+United States,Missouri,proprietor,3
+United States,Oregon,contract,3
+United States,Missouri,planning,3
+United States,Illinois,regional,3
+Ireland,Donegal,micro,3
+Ireland,Dublin,brewpub,3
+United States,Georgia,large,3
+South Korea,Jejudo,brewpub,3
+United States,Georgia,regional,3
+Germany,Berlin,beergarden,3
+Poland,dolnośląskie,regional,3
+United States,Hawaii,closed,3
+France,Bouche du Rhône,micro,3
+Ireland,Cork,brewpub,3
+United States,Utah,planning,3
+South Korea,Jeollabukdo,brewpub,3
+United States,Pennsylvania,proprietor,2
+United States,Indiana,contract,2
+United States,Nebraska,closed,2
+Ireland,Wicklow,micro,2
+United States,Montana,regional,2
+Ireland,Offaly,micro,2
+United States,Montana,contract,2
+Germany,Berlin,large,2
+Isle of Man,Middle,micro,2
+United States,Georgia,contract,2
+United States,Iowa,closed,2
+Portugal,Lisboa,brewpub,2
+United States,New Mexico,regional,2
+Ireland,Sligo,micro,2
+United States,Oregon,proprietor,2
+Ireland,Tipperary,micro,2
+United States,Connecticut,regional,2
+United States,District of Columbia,planning,2
+Ireland,Waterford,micro,2
+United States,Delaware,planning,2
+United States,New Hampshire,regional,2
+United States,District of Columbia,contract,2
+Ireland,Wexford,micro,2
+United States,Utah,regional,2
+United States,Texas,closed,2
+Ireland,Mayo,micro,2
+Ireland,Limerick,micro,2
+Ireland,Laois,micro,2
+Ireland,Kilkenny,regional,2
+South Korea,Incheon,brewpub,2
+Ireland,Kerry,micro,2
+United States,Vermont,planning,2
+Ireland,Dublin,regional,2
+Austria,Steiermark,bar,2
+United States,Wisconsin,proprietor,2
+Ireland,Cork,large,2
+Austria,K�rnten,large,2
+Austria,Nieder�sterreich,large,2
+United States,North Dakota,nano,2
+United States,Alaska,planning,2
+Ireland,Galway,regional,2
+United States,Arizona,large,2
+United States,South Carolina,regional,2
+United States,Mississippi,brewpub,2
+United States,Minnesota,proprietor,2
+United States,Massachusetts,proprietor,2
+United States,Maryland,proprietor,2
+United States,South Dakota,closed,2
+United States,Maine,contract,2
+United States,South Dakota,planning,2
+United States,Ohio,large,2
+South Korea,Gyeongsangbukdo,brewpub,2
+United States,Tennessee,proprietor,2
+United States,Washington,proprietor,2
+South Korea,Chungcheongnamdo,micro,2
+United States,Tennessee,regional,2
+United States,Ohio,proprietor,1
+United States,Oklahoma,closed,1
+Ireland,Monaghan,micro,1
+United States,Pennsylvania,taproom,1
+United States,Ohio,closed,1
+Ireland,Westmeath,brewpub,1
+Ireland,Roscommon,micro,1
+United States,Wyoming,regional,1
+Austria,K�rnten,nano,1
+Austria,Oberösterreich,large,1
+Austria,Oberösterreich,nano,1
+Austria,Steiermark,brewpub,1
+England,East Sussex,large,1
+United States,Texas,proprietor,1
+United States,Tennessee,nano,1
+United States,Tennessee,contract,1
+United States,South Dakota,proprietor,1
+United States,South Dakota,contract,1
+United States,South Carolina,contract,1
+United States,South Carolina,closed,1
+Scotland,East Dunbartonshire,micro,1
+United States,Rhode Island,proprietor,1
+United States,Alaska,contract,1
+Scotland,Bute,closed,1
+Portugal,Porto,micro,1
+Portugal,Porto,brewpub,1
+Portugal,Portalegre,micro,1
+Portugal,Leiria,brewpub,1
+Portugal,Faro,micro,1
+Portugal,Coimbra,brewpub,1
+Portugal,Beja,brewpub,1
+Portugal,Aveiro,micro,1
+Portugal,Aveiro,brewpub,1
+Ireland,Wicklow,regional,1
+United States,Rhode Island,regional,1
+United States,Idaho,large,1
+United States,New Hampshire,large,1
+United States,New Hampshire,contract,1
+United States,New Hampshire,closed,1
+United States,Nevada,bar,1
+United States,Missouri,large,1
+United States,Missouri,contract,1
+United States,Mississippi,planning,1
+United States,Mississippi,contract,1
+United States,Maryland,large,1
+United States,Maine,proprietor,1
+United States,MIssouri,micro,1
+United States,Louisiana,regional,1
+United States,West Virginia,proprietor,1
+United States,Alaska,regional,1
+United States,West Virginia,nano,1
+United States,Washington,location,1
+Ireland,Meath,micro,1
+Ireland,Louth,micro,1
+Ireland,Longford,micro,1
+Ireland,Kilkenny,micro,1
+Ireland,Kerry,brewpub,1
+Ireland,Dublin,large,1
+Ireland,Donegal,regional,1
+Ireland,Cork,regional,1
+Ireland,Galway,micro,1
+United States,Wisconsin,nano,1
+Ireland,Clare,brewpub,1
+Ireland,Carlow,micro,1
+United States,West Virginia,planning,1
+United States,Alabama,contract,1
+South Korea,Jeollanamdo,brewpub,1
+South Korea,Gyeongsangbukdo,micro,1
+South Korea,Gyeonggido,micro,1
+South Korea,Gwangju,brewpub,1
+South Korea,Deagu,brewpub,1
+South Korea,Daejeon,brewpub,1
+South Korea,Chungcheongnamdo,brewpub,1
+South Korea,Chungcheongbukdo,brewpub,1
+South Korea,Busan,micro,1
+Singapore,Singapore,large,1
+United States,North Dakota,bar,1
+United States,New Mexico,proprietor,1
+United States,New Mexico,contract,1
+United States,Idaho,proprietor,1
+United States,New Jersey,large,1
+United States,Arkansas,contract,1
+United States,Arizona,regional,1
+United States,Idaho,contract,1
+United States,Hawaii,regional,1
+United States,Georgia,proprietor,1
+United States,District of Columbia,regional,1
+United States,Delaware,regional,1
+United States,Delaware,large,1
+United States,Kentucky,regional,1
+United States,Kentucky,contract,1
+United States,Kansas,regional,1
+United States,Kansas,proprietor,1
+United States,Iowa,contract,1
+United States,Indiana,proprietor,1
+United States,New Jersey,regional,1
